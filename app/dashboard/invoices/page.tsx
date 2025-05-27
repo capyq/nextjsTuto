@@ -1,8 +1,4 @@
-type pageProps = {
-  // props
-};
-
-export const page = (props: pageProps) => {
+const page = () => {
   return <div>invoice</div>;
 };
 

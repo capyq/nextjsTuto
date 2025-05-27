@@ -1,9 +1,5 @@
-type pageProps = {
-  // props
-};
-
-export const page = (props: pageProps) => {
+function page() {
   return <div>customers</div>;
-};
+}
 
 export default page;
